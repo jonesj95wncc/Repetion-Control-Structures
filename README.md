@@ -1,1 +1,1 @@
-# Repetion-Control-Structures
+# Repetition-Control-Structures
